@@ -10,7 +10,11 @@
 
 #### git add
 
+加入暂缓区
+
 #### git commit
+
+提交暂缓区文件
 
 ```
 git commit --amend
