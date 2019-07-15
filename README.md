@@ -8,7 +8,7 @@ Golang 面试知识点总结
 
 <div align="center">
     <a href="https://golang.google.cn/"><img src="https://badgen.net/badge/golang/loading/blue?icon=zeit"></a>
-    <a href="https://github.com/hei6775/Algorithm"><img src="https://badgen.net/badge/hei6775/Blogs/blue?icon=deepscan">
+    <a href="https://github.com/hei6775/HeiBlogs"><img src="https://badgen.net/badge/hei6775/Blogs/blue?icon=deepscan">
 </div>
 
 <br>
@@ -17,19 +17,19 @@ Golang 面试知识点总结
 | :---------------------------------: | :--------------------------: | :---------------------------: | :------------------------: | :------------------------------: | :----------------------------------: | :------------------------------: |
 
 
-## Algorithm 算法
+### [Algorithm 算法]()
 
-## System 系统
+### [System 系统]()
 
-## Net 网络
+### [Net 网络]()
 
-## DB 数据库
+### [DB 数据库]()
 
-## Golang Go
+### [Golang Go]()
 
-## Interviews 面试
+### [Interviews 面试]()
 
-## Others 其它
+### [Others 其它](https://github.com/hei6775/Go-Interviews/tree/master/Notes/others)
 
 # 每天一道面试题
 
