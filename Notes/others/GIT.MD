@@ -7,10 +7,10 @@
 - [`git status`](#git-status)
 - [`git log`](#git-log)
 - [`git tag`](#git-tag)
-- [`git reflog`](#git reflog)
-- [`git diff`](#git diff)
-- [`git rm`](#git rm)
-- [`git stash`](#git stash)
+- [`git reflog`](#git-reflog)
+- [`git diff`](#git-diff)
+- [`git rm`](#git-rm)
+- [`git stash`](#git-stash)
 
 #### git add
 
